@@ -1,0 +1,1 @@
+# adatszerkezetek megvalositasai
