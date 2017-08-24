@@ -1,6 +1,6 @@
 package org.szeged.verem;
 
-import org.szeged.Util;
+import org.szeged.util.Util;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
